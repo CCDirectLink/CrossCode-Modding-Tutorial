@@ -5,6 +5,6 @@
 * [Installing CCLoader](./installingCCLoader.md)
 * [Installing NW.js](./installingNWJS.md)
 * [Making a mod](./makingAMod.md)
-* [Editing JSON](./editingJSON)
+* [Editing JSON](./editingJSON.md)
 * [Making a JavaScript mod](./javascriptMod.md)
 * [Share your mod](./publishMod.md)
