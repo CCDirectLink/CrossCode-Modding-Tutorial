@@ -1,0 +1,6 @@
+{
+    "name": "my-mod",
+    "ccmodHumanName": "My Mod",
+    "version": "1.0.0",
+    "plugin": "plugin.js"
+}

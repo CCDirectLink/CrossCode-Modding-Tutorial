@@ -1,0 +1,11 @@
+[{
+    "type": "ENTER",
+    "index": ["stats", "attack"]
+}, {
+    "type": "SET_KEY",
+    "index": "base",
+    "content": 200
+}, {
+    "type": "EXIT",
+    "count": 2
+}]
