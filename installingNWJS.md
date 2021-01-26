@@ -5,7 +5,7 @@
 * [Finding the CrossCode installation folder](./findingCrossCode.md)
 * [NW.js SDK](https://nwjs.io/) (Download `SDK`)
 
-| :warning: The game uses an outdated version of NW.js so you might want to use the version 0.30.5 to avoid accidentally using features not yet available in CrossCode.|
+| :warning: The game uses an outdated version of NW.js so you might want to use the version [0.35.5](https://dl.nwjs.io/v0.35.5/nwjs-sdk-v0.35.5-win-x64.zip) to avoid accidentally using features not yet available in CrossCode.|
 |---|
 
 ## Steps
