@@ -22,4 +22,4 @@ Since the process of approving a mod for the official list is a bit complicated 
 * Publish your source code on [Github](https://github.com/)
 * Make sure you have a correct version number
 * Create a [Github Release](https://docs.github.com/en/free-pro-team@latest/github/administering-a-repository/managing-releases-in-a-repository) - you can upload your .ccmod file there
-* Message (an admin) on the [CrossCode Modding Discord](https://discord.gg/TFs6n5v) to add your mod to the list
+* Message (an admin) on the [CrossCode Modding Discord](https://discord.gg/3Xw69VjXfW) to add your mod to the list
