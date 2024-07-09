@@ -1,0 +1,16 @@
+{
+    "id": "my-mod",
+    "version": "1.0.0",
+    "title": "My Mod",
+    "description": "Example mod",
+    "repository": "https://github.com/CCDirectLink/CrossCode-Modding-Tutorial",
+    "tags": ["fun"],
+    "authors": ["my_nick"],
+    "icons": {
+        "24": "icon/icon.png"
+    },
+    "dependencies": {
+        "crosscode": ">=1.4.0"
+    },
+    "plugin": "plugin.js"
+}
