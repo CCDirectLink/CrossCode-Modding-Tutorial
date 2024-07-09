@@ -10,18 +10,12 @@
 1. Open [the CrossCode installation folder](./findingCrossCode.md)
 2. Open `assets` -> `mods`
 3. Create a new folder for your mod. In this example we are going to use `myMod`
-4. Create a new file called `package.json`
+4. Create a new file called `ccmod.json`
 
-This file is used to tell CCLoader how to load your mod. It contains the internal name (`name`) the displayed name (`ccmodHumanName`), versions (`version`) and dependencies (`ccmodDependencies`). Only `name` and `version` are required.
-
-### Example `package.json`
-```json
-{
-    "name": "my-mod",
-    "ccmodHumanName": "My Mod",
-    "version": "1.0.0"
-}
-```
+This file is used to tell CCLoader how to load your mod.  
+It contains information about the mod title, version, description, etc...  
+Read [the `ccmod.json` standard](https://github.com/CCDirectLink/CCModDB/blob/master/CCMOD-STANDARD.md) to learn how to create your own `ccmod.json`.  
+Only `id` and `version` are required to just load the mod, but if if you want to publish it to the centralized mod database, you need to follow the standard mentioned above.
 
 5. Find a file to modify
 
@@ -42,4 +36,4 @@ In this example I am using Paint.net to swap Lea's red clothes for green ones:
 
 8. Restart the game and test your mod
 
-![Recolor result](./images/leaRecolored.png "Recolor result")
+![Recolor result](./images/leaRecolored.png "Recolor resultt")
